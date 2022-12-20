@@ -1,8 +1,8 @@
-version: 0.0.1
+version: 0.2.0
 files:
-  - url: app-Setup-0.0.1.exe
-    sha512: WF+zeQydJjLAr55oP7hG58xEUS3Q/khNrKcErBl+ZtVrtIyyUF6lfeRpO/giZZCT/Zn0nq4XkPG31iOYwrrVAg==
-    size: 70399451
-path: app-Setup-0.0.1.exe
-sha512: WF+zeQydJjLAr55oP7hG58xEUS3Q/khNrKcErBl+ZtVrtIyyUF6lfeRpO/giZZCT/Zn0nq4XkPG31iOYwrrVAg==
-releaseDate: '2022-12-20T21:08:22.106Z'
+  - url: app-Setup-0.2.0.exe
+    sha512: dul0d+VmsPWg3YkVDWtqUeCX8pNXwDym4reasdpdFLWxWoHzCKu03n8oeXVDsKPSfjFcL3wBce/sFZwKHQG0YQ==
+    size: 70399363
+path: app-Setup-0.2.0.exe
+sha512: dul0d+VmsPWg3YkVDWtqUeCX8pNXwDym4reasdpdFLWxWoHzCKu03n8oeXVDsKPSfjFcL3wBce/sFZwKHQG0YQ==
+releaseDate: '2022-12-20T21:12:33.484Z'
